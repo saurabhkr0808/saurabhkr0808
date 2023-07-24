@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Saurabh
-- 👀 I’m interested in Problem Solving,DevOps and AI&ML.
+- 👀 I’m interested in Problem Solving,DevOps,cloud computing,AI&ML and Physics.
 - 🌱 I’m currently learning DSA and DevOps
 - 💞️ I’m looking to collaborate on DevOps Project
 - 📫 How to reach me linkdin
